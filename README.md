@@ -1,1 +1,1 @@
-# Strategic-Market-Valuation-Pricing-Analysis
+# Strategic-Market-Valuation-and-Pricing-Analysis
