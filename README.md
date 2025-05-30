@@ -1,1 +1,1 @@
-# New-York-City-s-Property-Valuation-Analysis
+# Strategic-Market-Valuation-Pricing-Analysis
